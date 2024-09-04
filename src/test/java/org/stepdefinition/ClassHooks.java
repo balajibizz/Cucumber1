@@ -15,6 +15,7 @@ public class ClassHooks extends BaseClass {
 		WebDriver driver= new ChromeDriver();
 		getUrl("https://www.cebupacificair.com/en-PH/");
 		System.out.println("code");
+		System.out.println("code 2");
 
 	}
 	
